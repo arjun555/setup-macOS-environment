@@ -66,3 +66,8 @@ Docker allows you to package your code and all it's dependancies, then run it in
 GUI for databases
 
 `brew cask install tableplus`
+
+### Slack
+Communication tool that needs no introduction
+
+`brew cask install slack`
