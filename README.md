@@ -1,5 +1,5 @@
-# setup-web-environment
-Run sheet for setting up your macOS environment for web development
+# macOS Setup for Web Development
+Run sheet for setting up macOS environment for software development, with tools I currently use
 
 ## Command Line Tools
 ### Homebrew
